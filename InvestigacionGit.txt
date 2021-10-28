@@ -1,0 +1,5 @@
+¿Que es Git Fork?
+Un fork significa bifurcación, y en programación supone copiar un proyecto 
+y partir de este,  hacerle modificaciones. Cuando trabajamos
+ con repositorios Git, supone hacer una copia exacta del proyecto,
+ generando dos URL distintas.
