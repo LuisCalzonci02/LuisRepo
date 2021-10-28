@@ -6,7 +6,13 @@ y partir de este,  hacerle modificaciones. Cuando trabajamos
 es una caracteristica de GitHub en la que se crea una Copia exacta del estado actual
 de un repositorio, directamente en GitHub, este repositorio podra servir
 otro origen y se podra clonar como cualquier otro repositorio.
+-------------------------------------------------------------------------------------
 
-¿Como se usa Git Fork?
+Git hub es el lugar donde se almacena el estado del código
+Git funciona trayendo una copia del código y todas sus ramas, gestiona los cambios locales
+Git switch	Switch branches
+Git Show           Show various types of objects
+git restore <file>..." to discard changes in working directory)
+
 
 
